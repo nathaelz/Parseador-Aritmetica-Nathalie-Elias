@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZZKHQxZAemZTS8YTOo2MlAMfkhUMqLcnrEck14yuqTF+fmSJIQgqHW+ixDDXx2WTxrWWJh+JAAbECzWJJzCNg==",
+  "success": true,
+  "projectFilePath": "/Users/nathalieelias/Projects/ParseadorAritmetica/ParseadorAritmetica/ParseadorAritmetica.csproj",
+  "expectedPackageFiles": [
+    "/Users/nathalieelias/.nuget/packages/antlr4.runtime.standard/4.9.2/antlr4.runtime.standard.4.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
